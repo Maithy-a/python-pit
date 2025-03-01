@@ -2,7 +2,6 @@
 
 Welcome to my Python Projects Collection! This repository is a central hub for all my Python-related work, including automation scripts, data analysis tools, web scraping projects, and more.
 
-#
 ## Introduction
 
 This repository contains a variety of Python projects, scripts, and experiments. Each project is organized into its own folder with a README file for documentation.
