@@ -9,10 +9,10 @@ def circle ():
             radius = float(input("Please enter the radius of the circle:"))
             if radius < 0 :
                  raise ValueError("Negative values not accepted.")
-            circumfrence = 2 * pi * radius
-            print(f"Circumfrence: {circumfrence}")
-            Area = 2 * pow(radius,2)
-            print(f"Area: {Area}")
+            circumference = 2 * pi * radius
+            print(f"circumference: {circumference:.2f}")
+            area = 2 * pow(radius,2)
+            print(f"Area: {area:.2f}\n")
         except ValueError as e:
             print(f"Error: {e}")
         except Exception as e:
