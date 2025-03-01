@@ -13,7 +13,8 @@ This repository contains a variety of Python projects, scripts, and experiments.
 - Share my learning journey with others.
 
 ## Projects
-
+- Required libraries. See the [requirements.txt](requirements.txt) for details.
+ 
 1. calculator
 2. qr code generator
 3. speed test 
