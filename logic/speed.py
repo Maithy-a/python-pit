@@ -1,10 +1,7 @@
 '''
- Formula
-  S = D / T
-  make a program that
-  Prompt the user to enter the value of the distance in kilometers
-   and Time in minutes;
-  then calculates the speed
+Create a program that:
+- Asks the user to input the distance in kilometers and the time in minutes,
+- Then computes the speed using the formula S = D / T.
 '''
 
 def speed():
