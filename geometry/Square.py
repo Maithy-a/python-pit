@@ -27,6 +27,6 @@ def calc():
                     f"square root = {sroot:.2f} \n"
                     f"cube = {cube} \n"
                     f"Cuberoot = {croot:.2f} \n")
-        except ValueError:
-            print("invalid Value! Enter numeric value")
+        except ValueError as e:
+            print(f" Error {e}")
 calc()
