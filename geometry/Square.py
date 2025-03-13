@@ -21,12 +21,12 @@ def calc():
             else:
                 square = value ** 2
                 sroot = math.sqrt(value)
-                croot = math.cbrt(value)
+                cube_root = math.cbrt(value)
                 cube = value ** 3
                 print(f"square = {square}\n"
                     f"square root = {sroot:.2f} \n"
                     f"cube = {cube} \n"
-                    f"Cuberoot = {croot:.2f} \n")
+                    f"Cube root = {cube_root:.2f} \n")
         except ValueError as e:
             print(f" Error {e}")
 calc()
