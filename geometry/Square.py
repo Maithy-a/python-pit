@@ -1,4 +1,4 @@
-'''
+"""
 Create a program that:
 1. Prompts the user to enter a number
 2. After receiving the input, calculates and displays:
@@ -9,7 +9,7 @@ Create a program that:
 
 The program should perform all these calculations and show the results for the number entered by the user.
 
-'''
+"""
 
 def calc():
     import math

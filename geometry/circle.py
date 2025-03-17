@@ -1,6 +1,9 @@
-# Area: A = pi * r^2
-# Circumference: C = 2 * pi * r
-# Handle floats and Exceptions(errors)
+"""
+    Area: A = pi * r^2
+    Circumference: C = 2 * pi * r
+    Handle floats and Exceptions(errors)
+
+"""
 
 def circle ():   
     while True:

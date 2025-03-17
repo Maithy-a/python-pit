@@ -2,13 +2,13 @@ import speedtest
 
 def run_speedtest():
     try:
-        # Initialize the Speedtest object
+        # Initialization
         st = speedtest.Speedtest()
 
         print("\nTesting download speed...")
         download_speed = st.download() / 1_000_000  # Convert to Mbps
         print("Testing upload speed...")
-        upload_speed = st.upload() / 1_000_000  # Convert to Mbps
+        upload_speed = st.upload() / 1_000_000
 
         # Get results
         results = st.results.dict()
