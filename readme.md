@@ -18,6 +18,8 @@ This repository contains a variety of Python projects, scripts, and experiments.
 1. calculator
 2. qr code generator
 3. speed test 
+4. Grade calculator
+5. Geometry 
 
 ## License
 
