@@ -1,5 +1,7 @@
 # Python Projects Collection
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)<br>
+
 Welcome to my Python Projects Collection! This repository is a central hub for all my Python-related work, including automation scripts, data analysis tools, web scraping projects, and more.
 
 ## Introduction
